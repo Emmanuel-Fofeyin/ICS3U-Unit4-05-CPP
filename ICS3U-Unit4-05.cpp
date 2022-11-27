@@ -35,10 +35,10 @@ int main() {
                 addInt = addInt + positiveInteger;
                 sum = addInt;
             }
-            std::cout << " The sum of all positive integers = " << sum
+            std::cout << "The sum of all positive integers = " << sum
                       << std::endl;
         } else {
-            std::cout << "That is not a positive integer." << std::endl;
+            std::cout << "You did not enter a positive integer." << std::endl;
         }
     } catch (std::invalid_argument) {
         std::cout << loopsString << ", is not a valid input." << std::endl;
