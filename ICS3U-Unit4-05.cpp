@@ -1,7 +1,7 @@
 // Copyright (c) 2022 Emmanuel Fofeyin
 //
 // Created by: Emmanuel Fofeyin
-// Created on: Oct 2022
+// Created on: Nov 2022
 // This program adds only positive integers using continue statement
 
 #include <iostream>
