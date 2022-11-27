@@ -41,7 +41,7 @@ int main() {
             std::cout << "That is not a positive integer." << std::endl;
         }
     } catch (std::invalid_argument) {
-        std::cout << "That is not a valid input." << std::endl;
+        std::cout << loopsString << ", is not a valid input." << std::endl;
     }
     std::cout << "\nDone." << std::endl;
 }
